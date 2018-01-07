@@ -46,8 +46,7 @@ p {
 img {
   width: 100%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 1.5rem;
 }
 
 a {
@@ -86,4 +85,20 @@ a {
 
 .fourth {
   background-color: #999;
+}
+
+.first img {
+  width: 100px;
+}
+
+.second img {
+  width: 100px;
+}
+
+.third img {
+  width: 100px;
+}
+
+.fourth img {
+  width: 100px;
 }
